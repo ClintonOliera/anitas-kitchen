@@ -26,5 +26,14 @@ body {
 }
 .logo {
     text-align: center;
-    padding-top: 50px;
+    padding-top: 45px;
+}
+.logo h2 {
+    font-weight: 100;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+.home span {
+    font-weight: bold;
 }
