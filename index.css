@@ -20,3 +20,11 @@ body {
     font-family: serif;
     height: 600px;
 }
+.nav_icon img {
+    height: 40px !important;
+    padding: 40px;
+}
+.logo {
+    text-align: center;
+    padding-top: 50px;
+}
