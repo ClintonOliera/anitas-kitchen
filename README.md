@@ -1,4 +1,4 @@
-## Street Food
+## Anita's Kitchen
 This project is about a restaurant food website that is designed from a given example of the screenshot attached below. It was aimed at testing the skills covered so far in CSS.
 
 
