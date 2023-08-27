@@ -94,3 +94,42 @@ body {
 #dinner {
     background-image: url("./img/foodtop/dinner.jpg");
 }
+/* food section */
+
+.food {
+    margin-top: 50px;
+    padding: 50px;
+    display: flex;
+}
+
+.img_block {
+    border: 10px solid white;
+    border-radius: 2px;
+    box-shadow: 0px 0px 6px grey;
+    font-size: 0;
+    margin-left: 55px;
+    width: 50%;
+}
+
+.text_block {
+    margin-left: 45px;
+}
+
+.text_block h1 {
+    font-weight: bolder;
+    color: rgb(80, 77, 77);
+}
+
+.text_block h4 {
+    font-weight: 700;
+    color: rgb(80, 77, 77);
+}
+
+.text_block p {
+    float: left;
+    width: 95%;
+    font-weight: 100;
+    font-size: small;
+    font-family: "Quicksand", sans-serif;
+    line-height: 20px;
+}
