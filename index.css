@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.outline {
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    background-color: transparent;
+    border: solid 1px #f15a29;
+    color: #f15a29;
+}
+.home {
+    background-image: url("./img/bg/2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: serif;
+    height: 600px;
+}
