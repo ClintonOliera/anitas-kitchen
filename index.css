@@ -136,3 +136,46 @@ body {
 #btn {
     margin-top: 220px;
 }
+/* Drink styles */
+
+.drink {
+    margin-top: 10px;
+    padding: 0px 20px 20px 20px;
+    display: flex;
+}
+
+.drink_text_block {
+    width: 90%;
+    text-align: right;
+}
+
+.drink_text_block p {
+    margin-left: 100px;
+    font-weight: 100;
+    font-family: "Quicksand", sans-serif;
+    font-size: small;
+    line-height: 20px;
+}
+
+.drink_text_block h1 {
+    font-weight: bolder;
+    color: rgb(80, 77, 77);
+}
+
+.drink_text_block h4 {
+    font-weight: 700;
+    color: rgb(80, 77, 77);
+}
+
+#btn2 {
+    margin-top: 27px;
+}
+
+.img_block2 {
+    display: flex;
+    border: 15px solid white;
+    border-radius: 2px;
+    box-shadow: 0px 0px 6px rgb(126, 125, 125);
+    font-size: 0;
+    margin-left: 80px;
+}
